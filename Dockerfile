@@ -1,3 +1,4 @@
+version '2'
 services:
   ldap-host:
     image: osixia/openldap:1.1.8
